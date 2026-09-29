@@ -9,13 +9,10 @@ From **cross-platform apps** to **responsive websites**, I aim to create seamles
 ## 🛠 Tech Stack  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 ---
 
 ## 📂 Projects  
@@ -30,7 +27,7 @@ From **cross-platform apps** to **responsive websites**, I aim to create seamles
 ---
 
 ## 🌐 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-sswathi.online-orange?style=for-the-badge)](https://sswathi.online)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-sswathi.online-orange?style=for-the-badge)]((https://sswathi.netlify.app/))  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swathi%20Suren-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swathisuren77/)  
 [![Email](https://img.shields.io/badge/Email-swathisuren77%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swathisuren77@gmail.com)  
 
