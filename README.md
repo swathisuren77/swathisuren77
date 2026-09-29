@@ -1,5 +1,5 @@
 <!-- Typing effect intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7006A&width=750&lines=Hi%2C+I'm+Swathi+Suren+👋;Recent+CSE+graduate+%7C+FullStack+%26+Developer;Web+Developer+%7C+UI%2FUX+Enthusiast;Passionate+about+building+impactful+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7006A&width=750&lines=Hi%2C+I'm+Swathi+Suren+👋;Recent+CSE+graduate+%7C+FullStack+Developer;Web+Developer+%7C+UI%2FUX+Enthusiast;Passionate+about+building+impactful+software)](https://git.io/typing-svg)
 
 💡 Passionate about building **impactful software solutions** that merge functionality with beautiful design.  
 From **cross-platform apps** to **responsive websites**, I aim to create seamless and innovative user experiences.
